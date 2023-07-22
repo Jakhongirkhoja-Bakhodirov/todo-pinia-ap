@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # todo-app-pinia
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -55,3 +56,7 @@ npm run test:e2e
 ```sh
 npm run lint
 ```
+=======
+# todo-pinia-ap
+This is a simple todo app which built in Vue.js and also core libraries for state management like Pinia
+>>>>>>> 48d672fedfb08aa671afab1f739a5617ce6eef6f
